@@ -11,6 +11,7 @@ The site contains the following features:
 - [x] Custom made CSS Navigation Bar with dropdown buttons for mutiple subpages 
 - [x] Customized CSS page 
 - [x] Typical HTML subpages that are linked together
+- [x] Employs the use of Statc HTML pages, where the information doesn't change.
 
 
 
