@@ -10,5 +10,7 @@ The whole site is written in html and uses CSS for the front end, other things u
 The site contains the following features: 
 - [x] Custom made CSS Navigation Bar with dropdown buttons for mutiple subpages 
 - [x] Customized CSS page 
+- [x] Typical HTML subpages that are linked together
+
 
 
